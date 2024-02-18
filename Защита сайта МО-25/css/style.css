@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav {
+    background-color: #444;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+section {
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: left;
+    padding: 10px 0;
+    position: fixed;
+    width: 8000px;
+    bottom: 0;
+}
+
+.Gallery__img {
+    max-width: 1900px;
+    max-height: auto;
+    display: flex;
+    padding: 10px;
+    text-align: center;
+}
+
+.text__Apply_for_training {
+    text-align: center;
+    font-family: 50px;
+    margin-top: 350px;
+}
+
+.Home__text {
+    font-size: 30px;
+    text-align: center;
+}
+
+.Home__img {
+    max-width: 450px;
+    max-height: auto;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    text-align: left;
+    padding: 10px 0;
+    position: fixed;
+    width: 8000px;
+    bottom: 0;
+}
+
+.kontakts {
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}
